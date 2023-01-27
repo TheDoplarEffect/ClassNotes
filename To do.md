@@ -1,0 +1,5 @@
+- [ ] Become a Google Guru
+- [ ] Study GO
+- [ ] Improve personal website
+- [ ] https://learngitbranching.js.org/
+- [ ] 

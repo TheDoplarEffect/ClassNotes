@@ -1,0 +1,4 @@
+- [Java](https://www.java.com/en/), [PHP](https://www.php.net/), python, C# 
+- JavaScript is becoming popular as a backend language in the USA so might be ahead of the trend.
+- Learn [GO](https://go.dev/) (Is a Popular alternative to SQL)  Good for Job prospects.
+- 
